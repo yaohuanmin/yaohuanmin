@@ -155,7 +155,8 @@ if __name__ == '__main__':
  
 三.实验结果
 1.读入的图片
-ss
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/888.jpg)
 
 
     
