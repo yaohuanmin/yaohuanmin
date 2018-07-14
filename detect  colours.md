@@ -7,13 +7,12 @@
 
 二.程序代码
 
-
-import  cv2
-import numpy as np
-import collections
-
-def getColorList():
-    dict = collections.defaultdict(list)
+    import  cv2
+    import numpy as np
+    import collections
+    
+    def getColorList():
+        dict = collections.defaultdict(list)
 
     #黑色
     lower_black = np.array([0, 0, 0])      
@@ -108,11 +107,11 @@ def getColorList():
     return dict
  
 
-#颜色检测函数
-def get_color():
-    count=0   #记录图片中颜色种类
-    color_dict = getColorList()
-    for d in color_dict:          #判断颜色
+    #颜色检测函数
+    def get_color():
+      count=0   #记录图片中颜色种类
+      color_dict = getColorList()
+      for d in color_dict:          #判断颜色
         frame = cv2.imread('888.jpg',-1)  #导入图片
         hsv = cv2.cvtColor(frame,cv2.COLOR_BGR2HSV)   #把BGR图像转换为HSV格式
         
@@ -148,9 +147,9 @@ def get_color():
           print(d) 
 
     return count  
-if __name__ == '__main__':
-    print("the detected colours:")
-    print(get_color())
+    if __name__ == '__main__':
+      print("the detected colours:")
+      print(get_color())
  
  
 三.实验结果
