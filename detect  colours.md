@@ -161,5 +161,21 @@
 
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/888.jpg)
 
+2.运行代码后的结果
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/1.png)
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/blue.jpg)
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/green.jpg)
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/red.jpg)
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/red2.jpg)
+
+![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/yellow.jpg)
+
+
+
 
     
