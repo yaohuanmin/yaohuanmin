@@ -15,6 +15,7 @@
     import numpy as np
     import collections
     
+    #创建颜色字典
     def getColorList():
         dict = collections.defaultdict(list)
 
