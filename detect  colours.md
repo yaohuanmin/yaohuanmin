@@ -163,7 +163,6 @@
 
 2.运行代码后的结果
 
-控制台运行
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/1.png)
 
 检测到的蓝色
