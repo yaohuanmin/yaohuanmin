@@ -6,11 +6,12 @@
 4.由此计算出了读入图片中含有的颜色并进行了标记保存
 
 二.程序代码
+
+
 import  cv2
 import numpy as np
 import collections
 
-#颜色字典
 def getColorList():
     dict = collections.defaultdict(list)
 
@@ -147,8 +148,6 @@ def get_color():
           print(d) 
 
     return count  
-
- 
 if __name__ == '__main__':
     print("the detected colours:")
     print(get_color())
