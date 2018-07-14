@@ -163,16 +163,22 @@
 
 2.运行代码后的结果
 
+控制台运行
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/1.png)
 
+检测到的蓝色
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/blue.jpg)
 
+检测到的绿色
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/green.jpg)
 
+检测到的红色
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/red.jpg)
 
+检测到的红色2
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/red2.jpg)
 
+检测到的黄色
 ![image](https://github.com/yaohuanmin/yaohuanmin/blob/master/yellow.jpg)
 
 
